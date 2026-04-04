@@ -261,4 +261,122 @@
   >
     <div style="font-size: 4rem; margin-bottom: 1rem;">⚙️</div>
     <h3 style="margin: 0 0 1rem 0; font-size: 1.8rem;">E-Commerce API</h3>
-    <p style="margin: 0; opacity: 0
+    <p style="margin: 0; opacity: 0.95; font-size: 1.1rem;">Node.js + Express + MongoDB</p>
+    <div style="margin-top: 1.5rem; font-size: 1.2rem; color: #ffd700;">⭐ 85 Stars</div>
+  </a>
+  
+  <a href="https://github.com/TU-USUARIO/proyecto3" style="
+    text-decoration: none;
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+    color: white;
+    padding: 2.5rem;
+    border-radius: 25px;
+    text-align: center;
+    transition: all 0.4s ease;
+    box-shadow: 0 15px 35px rgba(79,172,254,0.4);
+    position: relative;
+    overflow: hidden;
+  "
+  onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 25px 50px rgba(79,172,254,0.6)'"
+  onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 15px 35px rgba(79,172,254,0.4)'"
+  >
+    <div style="font-size: 4rem; margin-bottom: 1rem;">📱</div>
+    <h3 style="margin: 0 0 1rem 0; font-size: 1.8rem;">Task Manager App</h3>
+    <p style="margin: 0; opacity: 0.95; font-size: 1.1rem;">React Native + Firebase + Redux</p>
+    <div style="margin-top: 1.5rem; font-size: 1.2rem; color: #ffd700;">⭐ 65 Stars</div>
+  </a>
+</div>
+
+<!-- CONTACTO ULTRA MODERNO -->
+<div style="
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 50%, #1a252f 100%);
+  padding: 4rem 2rem;
+  border-radius: 25px;
+  margin: 4rem 0;
+  color: white;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 5px; background: linear-gradient(90deg, #667eea, #764ba2, #f093fb, #667eea); background-size: 300% 100%; animation: gradient 3s ease infinite;"></div>
+  
+  <h2 style="margin-bottom: 2rem; font-size: 2.5rem; position: relative;">
+    💬 <strong>Conéctate conmigo</strong>
+  </h2>
+  
+  <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
+    <a href="mailto:tu-email@gmail.com" style="
+      color: white; 
+      font-size: 1.6rem;
+      padding: 1.5rem 2.5rem;
+      border-radius: 50px;
+      text-decoration: none;
+      background: rgba(255,255,255,0.1);
+      backdrop-filter: blur(15px);
+      border: 2px solid rgba(255,255,255,0.2);
+      transition: all 0.3s ease;
+      display: flex; align-items: center; gap: 1rem;
+    "
+    onmouseover="this.style.background='rgba(255,255,255,0.2)'; this.style.transform='translateY(-5px)'"
+    onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)'"
+    >📧 Email</a>
+    
+    <a href="https://linkedin.com/in/gerardo-morillo" style="
+      color: white; 
+      font-size: 1.6rem;
+      padding: 1.5rem 2.5rem;
+      border-radius: 50px;
+      text-decoration: none;
+      background: rgba(0,123,255,0.2);
+      backdrop-filter: blur(15px);
+      border: 2px solid rgba(0,123,255,0.3);
+      transition: all 0.3s ease;
+      display: flex; align-items: center; gap: 1rem;
+    "
+    onmouseover="this.style.background='rgba(0,123,255,0.4)'; this.style.transform='translateY(-5px)'"
+    onmouseout="this.style.background='rgba(0,123,255,0.2)'; this.style.transform='translateY(0)'"
+    >💼 LinkedIn</a>
+    
+    <a href="https://wa.me/TU-NUMERO" style="
+      color: white; 
+      font-size: 1.6rem;
+      padding: 1.5rem 2.5rem;
+      border-radius: 50px;
+      text-decoration: none;
+      background: rgba(40,213,40,0.2);
+      backdrop-filter: blur(15px);
+      border: 2px solid rgba(40,213,40,0.4);
+      transition: all 0.3s ease;
+      display: flex; align-items: center; gap: 1rem;
+    "
+    onmouseover="this.style.background='rgba(40,213,40,0.4)'; this.style.transform='translateY(-5px)'"
+    onmouseout="this.style.background='rgba(40,213,40,0.2)'; this.style.transform='translateY(0)'"
+    >📱 WhatsApp</a>
+  </div>
+</div>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+<!-- FOOTER EPIC -->
+<div align="center" style="margin-top: 4rem; padding: 2.5rem; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+  <p style="color: #6c757d; font-size: 1rem; margin: 0;">
+    <strong>✨ Hecho con ❤️ y ☕ usando GitHub</strong> &nbsp;•&nbsp; 
+    <a href="https://github.com/TU-USUARIO/tu-readme/commits/main" style="color: #007bff; font-weight: 600; text-decoration: none;">Última actualización</a>
+  </p>
+  <p style="color: #adb5bd; font-size: 0.9rem; margin-top: 0.5rem;">
+    <strong>🚀 Disponible para proyectos freelance</strong>
+  </p>
+</div>
+
+</div>
